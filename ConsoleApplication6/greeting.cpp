@@ -10,3 +10,5 @@ void Interface::Greeting(void){
 		<< "Student of group 404, Azarova Daniil Konstantinovich. 2021 year" << endl << endl
 		<< "Equation ax^3 + bx^2 + cx + d" << endl;
 }
+
+///Test
